@@ -1,3 +1,5 @@
+#DEFAULT C .gitignore
+
 # Prerequisites
 *.d
 
@@ -49,4 +51,12 @@
 modules.order
 Module.symvers
 Mkfile.old
+
 dkms.conf
+#END OF DEFAULT C .gitignore
+
+# if you prefer to not have .asm files in this repository and to use .txt instead uncomment the below line
+# *.asm
+
+#DS_Store is a file that is automatically generated on macOS in folders. Should not cause issues on other OS's. If it does just comment this line out
+*.DS_Store
