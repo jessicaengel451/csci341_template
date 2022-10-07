@@ -15,7 +15,9 @@ To create a local copy of this repo, use git clone where ever you would like the
 You then should have all the files that are a part of this repo. To add your assignments, drag them into you file explorer, finder, or whatever your operating system uses. Then use
 
 ```git add .``` // Adds all files in your current directory to the git repository
+
 ```git commit -m "INSERT WHATEVER MESSAGE YOU WANT :)"``` //says that you actually want to add them to the online repo.
+
 ```git push``` // adds them to the online repo
 
 Also helpful:
