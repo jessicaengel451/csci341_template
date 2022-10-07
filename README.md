@@ -8,8 +8,9 @@ Creating and using this repositiory is by no means necessary. I just almost lost
 - [Make sure you repo is PRIVATE online!](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
 - Github will require you to have an ssh key or a personal access token. Tokens in my opinion are easier to [setup](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [use](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 # Cloning and using this repo
-To create a local copy of this repo, use git clone where ever you would like the main folder to be created. Preferably in a folder you create:
+To create a local copy of this repo, use git clone where ever you would like the main folder to be created. Preferably in a folder you create. You can create a folder in the terminal in the current directory using
 
+```mkdir YOUR_FOLDER_NAME```
 ```git clone https://github.com/jessicaengel451/341.git```
 
 You then should have all the files that are a part of this repo. To add your assignments, drag them into you file explorer, finder, or whatever your operating system uses. Then use
