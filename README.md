@@ -8,11 +8,7 @@ Creating and using this repositiory is by no means necessary. I just almost lost
 - [Make sure you repo is PRIVATE online!](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
 - Github will require you to have an ssh key or a personal access token. Tokens in my opinion are easier to [setup](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [use](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 # Cloning and using this repo
-To create a local copy of this repo, use git clone where ever you would like the main folder to be created. Preferably in a folder you create. You can create a folder in the terminal in the current directory using
-
-```mkdir YOUR_FOLDER_NAME```
-
-```cd YOUR_FOLDER_NAME```
+To create a local copy of this repo, use git clone where ever you would like the main folder to be created.
 
 ```git clone https://github.com/jessicaengel451/csci341_template.git```
 
