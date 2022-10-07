@@ -11,6 +11,9 @@ Creating and using this repositiory is by no means necessary. I just almost lost
 To create a local copy of this repo, use git clone where ever you would like the main folder to be created. Preferably in a folder you create. You can create a folder in the terminal in the current directory using
 
 ```mkdir YOUR_FOLDER_NAME```
+
+``cd YOUR_FOLDER_NAME````
+
 ```git clone https://github.com/jessicaengel451/341.git```
 
 You then should have all the files that are a part of this repo. To add your assignments, drag them into you file explorer, finder, or whatever your operating system uses. Then use
