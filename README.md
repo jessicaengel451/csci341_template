@@ -14,7 +14,7 @@ To create a local copy of this repo, use git clone where ever you would like the
 
 ```cd YOUR_FOLDER_NAME```
 
-```git clone https://github.com/jessicaengel451/341.git```
+```git clone https://github.com/jessicaengel451/csci341_template.git```
 
 You then should have all the files that are a part of this repo. To add your assignments, drag them into you file explorer, finder, or whatever your operating system uses. Then use
 
