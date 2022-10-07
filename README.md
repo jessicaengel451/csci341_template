@@ -12,7 +12,7 @@ To create a local copy of this repo, use git clone where ever you would like the
 
 ```mkdir YOUR_FOLDER_NAME```
 
-``cd YOUR_FOLDER_NAME````
+```cd YOUR_FOLDER_NAME````
 
 ```git clone https://github.com/jessicaengel451/341.git```
 
